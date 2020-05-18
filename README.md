@@ -9,9 +9,11 @@ the least constraining value heuristic and ties are broken using a
 numerical ordering.
 
 To run the program, I use python in the command line. A valid example is:
-	py csp.py
-	py csp.py variableFile.var constraintFile.con
-	py csp.py ex3.var ex3.con
+```
+py csp.py
+py csp.py variableFile.var constraintFile.con
+py csp.py ex3.var ex3.con
+```
 The input files are variable (.var) and constraint (.con) text files. The
 variable file states the variables and their relevant domains for the
 problem. The constraint file states the constraints that must be satisfied.
