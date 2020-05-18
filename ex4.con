@@ -1,0 +1,7 @@
+A > B
+B > C
+A ! D
+E < D
+B = E
+F < E
+C ! F
